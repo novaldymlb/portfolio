@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_30x30_Timeline" data-name="30x30 Timeline" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f7df1e;
+      }
+    </style>
+  </defs>
+  <g id="_1-3-1-6-javascript" data-name="1-3-1-6-javascript">
+    <path class="cls-2" d="M0,0h30v30H0V0Z"/>
+    <path class="cls-1" d="M7.9,25.1l2.3-1.4c.4.8.8,1.4,1.8,1.4s1.5-.4,1.5-1.8v-9.6h2.8v9.6c0,2.9-1.7,4.2-4.2,4.2s-3.6-1.2-4.2-2.6"/>
+    <path class="cls-1" d="M17.9,24.8l2.3-1.3c.6,1,1.4,1.7,2.8,1.7s1.9-.6,1.9-1.4-.8-1.3-2.1-1.9l-.7-.3c-2-.9-3.4-2-3.4-4.2s1.6-3.7,4.1-3.7,3.1.6,4,2.3l-2.2,1.4c-.5-.9-1-1.2-1.8-1.2s-1.3.5-1.3,1.2.5,1.2,1.7,1.7l.7.3c2.4,1,3.7,2.1,3.7,4.4s-2,3.9-4.7,3.9-4.3-1.2-5.1-2.9"/>
+  </g>
+</svg>

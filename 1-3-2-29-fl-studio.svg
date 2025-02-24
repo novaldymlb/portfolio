@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_30x30" data-name="30x30" xmlns="http://www.w3.org/2000/svg" width="1072.2" height="543" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fe900d;
+      }
+
+      .cls-3 {
+        fill: #4aae52;
+      }
+
+      .cls-4 {
+        fill: #fdc82e;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="15" y1=".1" x2="15" y2="29.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#565a64"/>
+      <stop offset="1" stop-color="#3f4249"/>
+    </linearGradient>
+  </defs>
+  <g id="_1-3-2-29-fl-studio" data-name="1-3-2-29-fl-studio">
+    <rect class="cls-1" x=".1" y=".1" width="29.7" height="29.7" rx="6.2" ry="6.2"/>
+    <g>
+      <path class="cls-2" d="M10.7,7s-4,4.3-4,12c0,6.4,2.5,9.2,4.8,9.2s4.6-.8,8.1-6.6c4-6.8,3.5-10,3.5-10l-12.4-4.6Z"/>
+      <path class="cls-3" d="M20.5,6.3c-1.8,0-2.8.4-2.8.4-1.1-2.1-1.9-3.1-4.6-3.1-4.9,0-6.4,3.6-6.4,4.6s.7.7,2.3.7,3.7-.4,3.7-.4c-.3.6-.5,1.3-.5,2.2,0,2.2,1.4,4,3.2,4,2.8,0,4.1-3.1,4.1-3.1,0,0,3.2,3.5,4.4,3.5s1.6-1.6,1.6-3.7-1.3-5.2-5.1-5.2Z"/>
+      <path class="cls-3" d="M17.4,7.9c0,0-.2,0-.3,0-.3-.1-.5-.5-.3-.8.5-1.2,2.3-3.9,4.1-5.1.3-.2.7-.1.9.2.2.3.1.7-.2.9-1.6,1.1-3.2,3.7-3.6,4.6-.1.2-.3.4-.6.4Z"/>
+      <path class="cls-4" d="M9.2,20.6c-.3,0-.6-.2-.6-.6-.2-1.8,0-3.8.7-5.9.1-.3.5-.5.8-.4.3.1.5.5.4.8-.6,1.9-.8,3.8-.6,5.4,0,.3-.2.7-.6.7,0,0,0,0,0,0Z"/>
+    </g>
+  </g>
+</svg>

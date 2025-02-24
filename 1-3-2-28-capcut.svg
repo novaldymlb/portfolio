@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_30x30" data-name="30x30" xmlns="http://www.w3.org/2000/svg" width="30" height="30" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #000;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" x="0" y="0" width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="_1-3-2-28-capcut" data-name="1-3-2-28-capcut">
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(960 540)"><tspan x="0" y="0">1-3-2-28</tspan><tspan class="cls-5" x="41.8" y="0">-</tspan><tspan x="45.7" y="0">capcu</tspan><tspan class="cls-1" x="75.7" y="0">t</tspan><tspan x="79.6" y="0">-lig</tspan><tspan class="cls-7" x="95.7" y="0">h</tspan><tspan x="102.3" y="0">t</tspan></text>
+      <g>
+        <path class="cls-3" d="M26.6,6.6L3.4,19.4v2.2c0,1,.8,1.9,1.9,1.9h12.2c1,0,1.9-.8,1.9-1.9v-1.5"/>
+        <path class="cls-3" d="M26.6,23.4L3.4,10.6v-2.2c0-1,.8-1.9,1.9-1.9h12.2c1,0,1.9.8,1.9,1.9v1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
