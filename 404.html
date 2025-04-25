@@ -1,8 +1,19 @@
-<!-- public/404.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta http-equiv="refresh" content="0; url=/portfolio/" />
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <title>Redirecting...</title>
+    <script>
+      // Redirect ke index.html dengan tetap menyimpan path asli
+      const pathname = window.location.pathname;
+      const search = window.location.search;
+      const hash = window.location.hash;
+      const redirectTo = "/portfolio/index.html?redirect=" + encodeURIComponent(pathname + search + hash);
+      window.location.replace(redirectTo);
+    </script>
   </head>
-  <body></body>
+  <body>
+    <h1>Redirecting...</h1>
+  </body>
 </html>
